@@ -21,8 +21,6 @@ After countless coffee chats and messages, this page is my way to help everyone 
 
 Outside of tech, I ampliy hidden voices through creative writing, storytelling, and as a table tennis player. I’m a first-gen advocate for inclusive maker spaces, and I love exploring Boston’s trails. I know what it’s like to be lost and hidden, so my goal is to help you build confidence and persevere against all odds.
 
-## 🤝 Connect with me:
-[LinkedIn](www.linkedin.com/in/josegaelcruz)
 
 ## 💻 Tech Stack:
 
