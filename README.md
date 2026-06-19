@@ -1,7 +1,7 @@
 # Hi 👋 I'm Jose Cruz
 
 ## 🦉 About Me:
-👋 Hi, I’m Jose Cruz—a Mexican electrical engineering student at BU and storyteller in tech.  
+👋 Hi, I’m Jose Cruz—a Mexican computer engineering student at BU and storyteller in tech.  
 🤖 I love building with code, data, and hardware (Python, control eng, 3D CAD, cloud).  
 ✨ Passionate about equity, creative writing, and inclusive maker spaces.  
 🏓 Table tennis player & always up for tech collabs!  
