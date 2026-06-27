@@ -20,3 +20,9 @@ Views in the first week: 13.0k. Going on the second week!
 After countless coffee chats and messages, this page is my way to help everyone I can. Feel free to schedule a chat—I'd love to connect! [Calendly](https://calendly.com/josec-bu)
 
 Outside of tech, I ampliy hidden voices through creative writing, storytelling, and as a table tennis player. I’m a first-gen advocate for inclusive maker spaces, and I love exploring Boston’s trails. I know what it’s like to be lost and hidden, so my goal is to help you build confidence and persevere against all odds.
+
+---
+
+<p align="center">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Jose-Gael-Cruz-Lopez/Jose-Gael-Cruz-Lopez/output/pacman-contribution-graph-dark.svg" />
+</p>
