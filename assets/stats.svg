@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="274" viewBox="0 0 480 274" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<rect x="1" y="1" width="478" height="272" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<text x="26" y="41" fill="#7ee787" font-size="18px" font-weight="bold">Jose's GitHub Stats</text>
+<line x1="26" y1="51" x2="454" y2="51" stroke="#30363d" stroke-width="1"/>
+<text x="26" y="81" fill="#e3a008" font-size="15px">★</text>
+<text x="52" y="81" fill="#c9d1d9" font-size="15px">Total Stars Earned:</text>
+<text x="454" y="81" fill="#7ee787" font-size="15px" font-weight="bold" text-anchor="end">240</text>
+<text x="26" y="107" fill="#e3a008" font-size="15px">◆</text>
+<text x="52" y="107" fill="#c9d1d9" font-size="15px">Total Commits (last year):</text>
+<text x="454" y="107" fill="#7ee787" font-size="15px" font-weight="bold" text-anchor="end">2,202</text>
+<text x="26" y="133" fill="#e3a008" font-size="15px">⬆</text>
+<text x="52" y="133" fill="#c9d1d9" font-size="15px">Total PRs:</text>
+<text x="454" y="133" fill="#7ee787" font-size="15px" font-weight="bold" text-anchor="end">232</text>
+<text x="26" y="159" fill="#e3a008" font-size="15px">●</text>
+<text x="52" y="159" fill="#c9d1d9" font-size="15px">Total Issues:</text>
+<text x="454" y="159" fill="#7ee787" font-size="15px" font-weight="bold" text-anchor="end">220</text>
+<text x="26" y="185" fill="#e3a008" font-size="15px">▾</text>
+<text x="52" y="185" fill="#c9d1d9" font-size="15px">Repositories:</text>
+<text x="454" y="185" fill="#7ee787" font-size="15px" font-weight="bold" text-anchor="end">30</text>
+<text x="26" y="211" fill="#e3a008" font-size="15px">☺</text>
+<text x="52" y="211" fill="#c9d1d9" font-size="15px">Followers:</text>
+<text x="454" y="211" fill="#7ee787" font-size="15px" font-weight="bold" text-anchor="end">34</text>
+<text x="26" y="237" fill="#e3a008" font-size="15px">✦</text>
+<text x="52" y="237" fill="#c9d1d9" font-size="15px">Contributions (last year):</text>
+<text x="454" y="237" fill="#7ee787" font-size="15px" font-weight="bold" text-anchor="end">3,993</text>
+</svg>
