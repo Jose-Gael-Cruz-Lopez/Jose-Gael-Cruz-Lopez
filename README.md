@@ -1,3 +1,16 @@
+<p align="center">
+  <img src="./assets/profile.svg" alt="Jose Gael Cruz Lopez — about me" width="900" />
+</p>
+
+<p align="center">
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Jose-Gael-Cruz-Lopez&show_icons=true&hide_border=true&theme=github_dark&count_private=true&include_all_commits=true" />
+  <img height="165" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=Jose-Gael-Cruz-Lopez&hide_border=true&theme=github-dark" />
+</p>
+
+[![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Jose-Gael-Cruz-Lopez&theme=github-compact&hide_border=true)](https://github.com/Jose-Gael-Cruz-Lopez)
+
+---
+
 # Hi 👋 I'm Jose Cruz
 
 ## 🦉 About Me:

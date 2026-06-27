@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="926" height="411" viewBox="0 0 926 411" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<rect x="1" y="1" width="924" height="409" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<text x="24" y="0" fill="#7ee787" font-size="14px" xml:space="preserve">
+<tspan x="24" y="38">.........        ......*%%%%%%**########%%</tspan>
+<tspan x="24" y="55">..........    .  ......*%%%%%%++########%%</tspan>
+<tspan x="24" y="72">.....................--*%%%%%#++########%%</tspan>
+<tspan x="24" y="89">:...............:-+**#%%@%%%%#++#*%%%#*###</tspan>
+<tspan x="24" y="106">::::.::.......:-*%@@@@@@@@@@@%##**#%######</tspan>
+<tspan x="24" y="123">:::::::::.::::-*%%%@%##%%%@@@%###*########</tspan>
+<tspan x="24" y="140">::::::::::::::=%%%%%###%#%@@@%%%%#%#######</tspan>
+<tspan x="24" y="157">::::::::::::::*@%%@%%%####%#%%%%@@@@%#####</tspan>
+<tspan x="24" y="174">:::::::::::::.+%%%%%##**##%%##@@@@@@%#####</tspan>
+<tspan x="24" y="191">:::::::::::::-*+***+==+*%@%%**%%@@@%####%%</tspan>
+<tspan x="24" y="208">::::::::::::::=+++====*#%%%%##%@@%%%%#%%%%</tspan>
+<tspan x="24" y="225">:::::::::::::::==++=---+**+==-#%##%%%%%%%%</tspan>
+<tspan x="24" y="242">:::::---:::::::+**+++=====+=-:+**#%%%%%%%%</tspan>
+<tspan x="24" y="259">--:::===:::::::=******+=+++++=*#@@@@%%%%%%</tspan>
+<tspan x="24" y="276">--------::::::-+**#********##%#%@@@@%%%%%%</tspan>
+<tspan x="24" y="293">------------+#+++*#########%%%#%@@@@%%%%%%</tspan>
+<tspan x="24" y="310">==------=+*%@@%#***##%%##%%@@@@@@@@@@%%%%%</tspan>
+<tspan x="24" y="327">======*#%@@@@@@@@%%%%%@@%%@@@@@@@@@@@@@@@%</tspan>
+<tspan x="24" y="344">===+#%@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@%</tspan>
+<tspan x="24" y="361">=*#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%</tspan>
+<tspan x="24" y="378">#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%</tspan>
+</text>
+<text x="407" y="38" font-size="14px" font-weight="bold"><tspan fill="#7ee787">jose</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#7ee787">cruzlopez</tspan></text>
+<text x="407" y="55" fill="#8b949e" font-size="14px" xml:space="preserve">──────────────────────────────────────────────</text>
+<text x="407" y="72" fill="#e3a008" font-size="14px">OS:</text>
+<text x="617" y="72" fill="#c9d1d9" font-size="14px">macOS</text>
+<text x="407" y="89" fill="#e3a008" font-size="14px">Host:</text>
+<text x="617" y="89" fill="#c9d1d9" font-size="14px">Boston University</text>
+<text x="407" y="106" fill="#e3a008" font-size="14px">Member since:</text>
+<text x="617" y="106" fill="#c9d1d9" font-size="14px">Aug 2025</text>
+<text x="407" y="123" fill="#e3a008" font-size="14px">Focus:</text>
+<text x="617" y="123" fill="#c9d1d9" font-size="14px">EE · ML · Robotics · SWE</text>
+<text x="407" y="157" fill="#e3a008" font-size="14px">Languages.Programming:</text>
+<text x="617" y="157" fill="#7ee787" font-size="14px">Python, Java, JavaScript, C</text>
+<text x="407" y="174" fill="#e3a008" font-size="14px">Languages.Tools:</text>
+<text x="617" y="174" fill="#7ee787" font-size="14px">SQL, VHDL, Git, AWS</text>
+<text x="407" y="191" fill="#e3a008" font-size="14px">Languages.Real:</text>
+<text x="617" y="191" fill="#7ee787" font-size="14px">English, Spanish</text>
+<text x="407" y="225" font-size="14px" xml:space="preserve"><tspan fill="#8b949e">─ </tspan><tspan fill="#58a6ff" font-weight="bold">Contact </tspan><tspan fill="#8b949e">─────────────────────────────────</tspan></text>
+<text x="407" y="242" fill="#e3a008" font-size="14px">GitHub:</text>
+<text x="617" y="242" fill="#58a6ff" font-size="14px">@Jose-Gael-Cruz-Lopez</text>
+<text x="407" y="259" fill="#e3a008" font-size="14px">Instagram:</text>
+<text x="617" y="259" fill="#58a6ff" font-size="14px">@jobse.cz</text>
+<text x="407" y="276" fill="#e3a008" font-size="14px">Calendly:</text>
+<text x="617" y="276" fill="#58a6ff" font-size="14px">calendly.com/josec-bu</text>
+<text x="407" y="310" font-size="14px" xml:space="preserve"><tspan fill="#8b949e">─ </tspan><tspan fill="#58a6ff" font-weight="bold">GitHub Stats </tspan><tspan fill="#8b949e">────────────────────────────</tspan></text>
+<text x="407" y="327" fill="#e3a008" font-size="14px">Repos:</text>
+<text x="617" y="327" fill="#7ee787" font-size="14px">27</text>
+<text x="407" y="344" fill="#e3a008" font-size="14px">Stars:</text>
+<text x="617" y="344" fill="#7ee787" font-size="14px">240</text>
+<text x="407" y="361" fill="#e3a008" font-size="14px">Followers:</text>
+<text x="617" y="361" fill="#7ee787" font-size="14px">34</text>
+</svg>
