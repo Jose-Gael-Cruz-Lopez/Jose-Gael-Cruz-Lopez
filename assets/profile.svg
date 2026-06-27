@@ -1,56 +1,85 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="926" height="411" viewBox="0 0 926 411" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-<rect x="1" y="1" width="924" height="409" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
-<text x="24" y="0" fill="#7ee787" font-size="14px" xml:space="preserve">
-<tspan x="24" y="38">.........        ......*%%%%%%**########%%</tspan>
-<tspan x="24" y="55">..........    .  ......*%%%%%%++########%%</tspan>
-<tspan x="24" y="72">.....................--*%%%%%#++########%%</tspan>
-<tspan x="24" y="89">:...............:-+**#%%@%%%%#++#*%%%#*###</tspan>
-<tspan x="24" y="106">::::.::.......:-*%@@@@@@@@@@@%##**#%######</tspan>
-<tspan x="24" y="123">:::::::::.::::-*%%%@%##%%%@@@%###*########</tspan>
-<tspan x="24" y="140">::::::::::::::=%%%%%###%#%@@@%%%%#%#######</tspan>
-<tspan x="24" y="157">::::::::::::::*@%%@%%%####%#%%%%@@@@%#####</tspan>
-<tspan x="24" y="174">:::::::::::::.+%%%%%##**##%%##@@@@@@%#####</tspan>
-<tspan x="24" y="191">:::::::::::::-*+***+==+*%@%%**%%@@@%####%%</tspan>
-<tspan x="24" y="208">::::::::::::::=+++====*#%%%%##%@@%%%%#%%%%</tspan>
-<tspan x="24" y="225">:::::::::::::::==++=---+**+==-#%##%%%%%%%%</tspan>
-<tspan x="24" y="242">:::::---:::::::+**+++=====+=-:+**#%%%%%%%%</tspan>
-<tspan x="24" y="259">--:::===:::::::=******+=+++++=*#@@@@%%%%%%</tspan>
-<tspan x="24" y="276">--------::::::-+**#********##%#%@@@@%%%%%%</tspan>
-<tspan x="24" y="293">------------+#+++*#########%%%#%@@@@%%%%%%</tspan>
-<tspan x="24" y="310">==------=+*%@@%#***##%%##%%@@@@@@@@@@%%%%%</tspan>
-<tspan x="24" y="327">======*#%@@@@@@@@%%%%%@@%%@@@@@@@@@@@@@@@%</tspan>
-<tspan x="24" y="344">===+#%@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@%</tspan>
-<tspan x="24" y="361">=*#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%</tspan>
-<tspan x="24" y="378">#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%</tspan>
+<svg xmlns="http://www.w3.org/2000/svg" width="1056" height="804" viewBox="0 0 1056 804" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<rect x="1" y="1" width="1054" height="802" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<text x="24" y="0" fill="#f0f6fc" font-size="13px" xml:space="preserve" letter-spacing="0">
+<tspan x="24" y="37">                                 :{\~,i?~&gt;!i&gt;^                  </tspan>
+<tspan x="24" y="52">                               -um8$%o*ah*dpakY[!`              </tspan>
+<tspan x="24" y="67">                       ',&gt;(xnCQo&amp;&amp;%@$$$%#a88kp&amp;MbO_             </tspan>
+<tspan x="24" y="82">                     '?0a*W#&amp;BB@%8@@$$@$$$B#wM&amp;C)cm&gt;.^          </tspan>
+<tspan x="24" y="97">                     {#M&amp;&amp;8B@@@@B%8B$BBB$$&amp;*hw#W&amp;M**wkJ+.I      </tspan>
+<tspan x="24" y="112">                    ;Qq*WW&amp;%8&amp;%@%%%@$B&amp;B88%@$&amp;BW%%8@$$$&amp;LmXt^   </tspan>
+<tspan x="24" y="127">                   +OaM#####M&amp;8$B8%@@%8%B8@$$$$@@8B$$$$$$8B$c   </tspan>
+<tspan x="24" y="142">                  .uwh#W#ho#*#&amp;B@%WW&amp;@BB@@$$@$$$@BB$$$$$$@%@L~. </tspan>
+<tspan x="24" y="157">                ,l)d#W&amp;W8&amp;&amp;&amp;&amp;&amp;M#ohbhoM%@@$$$$$$$$$$$$$$$@#M#or` </tspan>
+<tspan x="24" y="172">                ^,_pMW&amp;&amp;%8&amp;&amp;MkdqwZqh#M@@88M88B$$$$$$$$$@8M@#df` </tspan>
+<tspan x="24" y="187">                  [*MM###hhhwLJJCLmb#&amp;Mabdmmda#MW&amp;8@$$$B%B%#$$t </tspan>
+<tspan x="24" y="202">                :lxdh###adwLzvuuczXYCLCJUUUCQOmqpbko%$B@%8$B$$x </tspan>
+<tspan x="24" y="217">               '[})Ypbbw0YuxrrjxnuvunnuvvvvuucXUC0Zwda%$$8@$$$c </tspan>
+<tspan x="24" y="232">               .' &lt;J0zcurf////ttjrxxnnnxxxjrrrxnvcYCOwp#@$$$$$Y </tspan>
+<tspan x="24" y="247">                  }qYf\())|/tjjrunnnuuuuvvvzYUJLZZwdaobCvZ&amp;@$$( </tspan>
+<tspan x="24" y="262">                  Izx}&gt;/JLOwppppwQUzzXYYJ0wa&amp;%B@$$$$$$Bor}n&amp;$&amp;: </tspan>
+<tspan x="24" y="277">                   ,:`]q#W88&amp;WM#hpOLLLQ0mpko*ooakdbhahhaC1}mW*l </tspan>
+<tspan x="24" y="292">                     (QOZwqqba**ahdwOQ0Zdaoa*W&amp;&amp;MW&amp;&amp;&amp;&amp;*km)-cpn, </tspan>
+<tspan x="24" y="307">                    :nYQZpaW%@88WhpmCcuzQa#k#8#8B@B8&amp;&amp;Mhdv[xu'  </tspan>
+<tspan x="24" y="322">                    &gt;vXOqdkMW&amp;#ohwQLv//jzwhkdqdbkhhhkdqqZX{fC:  </tspan>
+<tspan x="24" y="337">                    +fxzzQwpddpmQUYvf)(tvOwqwOQQQQQCYYC0Cc)/ai  </tspan>
+<tspan x="24" y="352">                    ;)\jvYJCJUYXzzvj\)(tcQwwqOJXcvuuvzULCc\\mi  </tspan>
+<tspan x="24" y="367">                    .[\\/tjrxnucXYnt({(tvJOpddZCXccvccXJYu//z;  </tspan>
+<tspan x="24" y="382">                    .&lt;{1(/fxuzU0pY|)]?)fuzUOOZbpmOCXzXYCJjtfr.  </tspan>
+<tspan x="24" y="397">                      ~\fxuXCmbkdu(frjuzXYOkhbhbdkkqOQQOOnrt+   </tspan>
+<tspan x="24" y="412">                      ijuzU0b#hwOLZhhqOwpbMBB8abddho#kqpZJU1    </tspan>
+<tspan x="24" y="427">                      ^\XCZh*hpwwwqhoaaooW8@@@8WM8%B%#bkmw0]    </tspan>
+<tspan x="24" y="442">                      .~u0b*o88*dpdkbddbdko&amp;B888%$$$$hqdqdU,    </tspan>
+<tspan x="24" y="457">                      :?/CwbM$$&amp;oobQQQQOwZOwwb*$$8W*awwqd0&gt;     </tspan>
+<tspan x="24" y="472">                      .l{uLZb**ok**pCYczCJJwkW8&amp;obbppdbpC!      </tspan>
+<tspan x="24" y="487">                        `-n0wdqOQYYLOOZwpdpdbhakddpdbkpQu`      </tspan>
+<tspan x="24" y="502">                         'I\CpqO0LUYUQwpdbbkhhbbdppbpwqCmI      </tspan>
+<tspan x="24" y="517">                   .':[}Ic:~\fCOOOOOOZwdkhahbdpqwwqwqa*&amp;J       </tspan>
+<tspan x="24" y="532">               ';+/XJ0wZQb]Jr[&gt;[|xYJCCCCQOO0OO00OmphooMb!       </tspan>
+<tspan x="24" y="547">            "~tJqdkbpqZZmkZ&amp;X|}~~&lt;]tcYUJQOOOZwqpbkhha#m!        </tspan>
+<tspan x="24" y="562">         `+/Cwa*ababqwZwZkwMqj\\\({fcCOwbhhkhahkkkkaau"         </tspan>
+<tspan x="24" y="577">       .[YwdkW#ooh#bqwmqmdkd&amp;LxfjnnvJZwdkhhhkkbdbhhY&gt;           </tspan>
+<tspan x="24" y="592">      ,cqMd#@8#MM*Mkdwqpdqhp##QcuuczJ0OwqdbbdddhaL~             </tspan>
+<tspan x="24" y="607">     ?Qbo%o$$8M&amp;&amp;##kdqqpbbbadWhQUYXUQmwwpddpdkpc_.              </tspan>
+<tspan x="24" y="622">    ;dkb8%&amp;$@%%88#okbdddhhhokqhqLYXCZqddbkdZc}:                 </tspan>
+<tspan x="24" y="637">  ':\WhaB8@$$B%8&amp;*aakkkhahaoaqwbdq0QQ0ZLc\+"                    </tspan>
+<tspan x="24" y="652">  ]qd&amp;o#@8$$@%&amp;&amp;Waaaahhh*aaaahpqbo#oaoz`                        </tspan>
+<tspan x="24" y="667"> ?Q#a8MMBB$$8&amp;&amp;8Ma**oahh#oaaaaakba#&amp;B$(                         </tspan>
+<tspan x="24" y="682"> YkWWMBW%$$@&amp;&amp;%8*o##oohaMMoaa*ooahoM8@{                         </tspan>
+<tspan x="24" y="697"> Co&amp;@#B%8$$BM&amp;BWo#W#*oaa&amp;&amp;#o*oa*##**WB1                         </tspan>
+<tspan x="24" y="712"> 0oW@%8B8$$8#8B#*WW#*oaa&amp;8Woo*o*W8M*#Wa?                        </tspan>
+<tspan x="24" y="727"> Z#M%$@%%$$M*B8#W&amp;#o#*oa&amp;B8*oM*o#&amp;&amp;MMM%h"                       </tspan>
+<tspan x="24" y="742"> cB#B@$@%$$*#B8MWMa*##*a&amp;@BMo##oa#W&amp;&amp;&amp;8*,                       </tspan>
+<tspan x="24" y="757"> ~#@@$$$B$$*M@%8&amp;W#MM&amp;M#8$$BMM&amp;W##&amp;&amp;bpL+.                       </tspan>
+<tspan x="24" y="772">  -xnnnnjnntfrjrjffffjjfjxnxfffff/j1^'                          </tspan>
 </text>
-<text x="407" y="38" font-size="14px" font-weight="bold"><tspan fill="#7ee787">jose</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#7ee787">cruzlopez</tspan></text>
-<text x="407" y="55" fill="#8b949e" font-size="14px" xml:space="preserve">──────────────────────────────────────────────</text>
-<text x="407" y="72" fill="#e3a008" font-size="14px">OS:</text>
-<text x="617" y="72" fill="#c9d1d9" font-size="14px">macOS</text>
-<text x="407" y="89" fill="#e3a008" font-size="14px">Host:</text>
-<text x="617" y="89" fill="#c9d1d9" font-size="14px">Boston University</text>
-<text x="407" y="106" fill="#e3a008" font-size="14px">Member since:</text>
-<text x="617" y="106" fill="#c9d1d9" font-size="14px">Aug 2025</text>
-<text x="407" y="123" fill="#e3a008" font-size="14px">Focus:</text>
-<text x="617" y="123" fill="#c9d1d9" font-size="14px">EE · ML · Robotics · SWE</text>
-<text x="407" y="157" fill="#e3a008" font-size="14px">Languages.Programming:</text>
-<text x="617" y="157" fill="#7ee787" font-size="14px">Python, Java, JavaScript, C</text>
-<text x="407" y="174" fill="#e3a008" font-size="14px">Languages.Tools:</text>
-<text x="617" y="174" fill="#7ee787" font-size="14px">SQL, VHDL, Git, AWS</text>
-<text x="407" y="191" fill="#e3a008" font-size="14px">Languages.Real:</text>
-<text x="617" y="191" fill="#7ee787" font-size="14px">English, Spanish</text>
-<text x="407" y="225" font-size="14px" xml:space="preserve"><tspan fill="#8b949e">─ </tspan><tspan fill="#58a6ff" font-weight="bold">Contact </tspan><tspan fill="#8b949e">─────────────────────────────────</tspan></text>
-<text x="407" y="242" fill="#e3a008" font-size="14px">GitHub:</text>
-<text x="617" y="242" fill="#58a6ff" font-size="14px">@Jose-Gael-Cruz-Lopez</text>
-<text x="407" y="259" fill="#e3a008" font-size="14px">Instagram:</text>
-<text x="617" y="259" fill="#58a6ff" font-size="14px">@jobse.cz</text>
-<text x="407" y="276" fill="#e3a008" font-size="14px">Calendly:</text>
-<text x="617" y="276" fill="#58a6ff" font-size="14px">calendly.com/josec-bu</text>
-<text x="407" y="310" font-size="14px" xml:space="preserve"><tspan fill="#8b949e">─ </tspan><tspan fill="#58a6ff" font-weight="bold">GitHub Stats </tspan><tspan fill="#8b949e">────────────────────────────</tspan></text>
-<text x="407" y="327" fill="#e3a008" font-size="14px">Repos:</text>
-<text x="617" y="327" fill="#7ee787" font-size="14px">27</text>
-<text x="407" y="344" fill="#e3a008" font-size="14px">Stars:</text>
-<text x="617" y="344" fill="#7ee787" font-size="14px">240</text>
-<text x="407" y="361" fill="#e3a008" font-size="14px">Followers:</text>
-<text x="617" y="361" fill="#7ee787" font-size="14px">34</text>
+<text x="557" y="37" font-size="13px" font-weight="bold"><tspan fill="#7ee787">jose</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#7ee787">cruzlopez</tspan></text>
+<text x="557" y="52" fill="#8b949e" font-size="13px" xml:space="preserve">──────────────────────────────────────────────</text>
+<text x="557" y="67" fill="#e3a008" font-size="13px">OS:</text>
+<text x="767" y="67" fill="#c9d1d9" font-size="13px">macOS</text>
+<text x="557" y="82" fill="#e3a008" font-size="13px">Host:</text>
+<text x="767" y="82" fill="#c9d1d9" font-size="13px">Boston University</text>
+<text x="557" y="97" fill="#e3a008" font-size="13px">Member since:</text>
+<text x="767" y="97" fill="#c9d1d9" font-size="13px">Aug 2025</text>
+<text x="557" y="112" fill="#e3a008" font-size="13px">Focus:</text>
+<text x="767" y="112" fill="#c9d1d9" font-size="13px">EE · ML · Robotics · SWE</text>
+<text x="557" y="142" fill="#e3a008" font-size="13px">Languages.Programming:</text>
+<text x="767" y="142" fill="#7ee787" font-size="13px">Python, Java, JavaScript, C</text>
+<text x="557" y="157" fill="#e3a008" font-size="13px">Languages.Tools:</text>
+<text x="767" y="157" fill="#7ee787" font-size="13px">SQL, VHDL, Git, AWS</text>
+<text x="557" y="172" fill="#e3a008" font-size="13px">Languages.Real:</text>
+<text x="767" y="172" fill="#7ee787" font-size="13px">English, Spanish</text>
+<text x="557" y="202" font-size="13px" xml:space="preserve"><tspan fill="#8b949e">─ </tspan><tspan fill="#58a6ff" font-weight="bold">Contact </tspan><tspan fill="#8b949e">─────────────────────────────────</tspan></text>
+<text x="557" y="217" fill="#e3a008" font-size="13px">GitHub:</text>
+<text x="767" y="217" fill="#58a6ff" font-size="13px">@Jose-Gael-Cruz-Lopez</text>
+<text x="557" y="232" fill="#e3a008" font-size="13px">Instagram:</text>
+<text x="767" y="232" fill="#58a6ff" font-size="13px">@jobse.cz</text>
+<text x="557" y="247" fill="#e3a008" font-size="13px">Calendly:</text>
+<text x="767" y="247" fill="#58a6ff" font-size="13px">calendly.com/josec-bu</text>
+<text x="557" y="277" font-size="13px" xml:space="preserve"><tspan fill="#8b949e">─ </tspan><tspan fill="#58a6ff" font-weight="bold">GitHub Stats </tspan><tspan fill="#8b949e">────────────────────────────</tspan></text>
+<text x="557" y="292" fill="#e3a008" font-size="13px">Repos:</text>
+<text x="767" y="292" fill="#7ee787" font-size="13px">30</text>
+<text x="557" y="307" fill="#e3a008" font-size="13px">Stars:</text>
+<text x="767" y="307" fill="#7ee787" font-size="13px">240</text>
+<text x="557" y="322" fill="#e3a008" font-size="13px">Followers:</text>
+<text x="767" y="322" fill="#7ee787" font-size="13px">34</text>
 </svg>
