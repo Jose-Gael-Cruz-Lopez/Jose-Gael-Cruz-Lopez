@@ -24,5 +24,5 @@ Outside of tech, I ampliy hidden voices through creative writing, storytelling, 
 ---
 
 <p align="center">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Jose-Gael-Cruz-Lopez/Jose-Gael-Cruz-Lopez/output/pacman-contribution-graph-dark.svg" />
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Jose-Gael-Cruz-Lopez/Jose-Gael-Cruz-Lopez/output/pacman-contribution-graph.svg" />
 </p>
