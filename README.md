@@ -9,6 +9,15 @@
 
 [![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Jose-Gael-Cruz-Lopez&theme=github-compact&hide_border=true)](https://github.com/Jose-Gael-Cruz-Lopez)
 
+<p align="center">
+  <img alt="Activity overview" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jose-Gael-Cruz-Lopez&theme=github_dark" width="820" />
+</p>
+
+<p align="center">
+  <img height="195" alt="Most-used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jose-Gael-Cruz-Lopez&theme=github_dark" />
+  <img height="195" alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jose-Gael-Cruz-Lopez&utcOffset=-5&theme=github_dark" />
+</p>
+
 ---
 
 ## About Me
