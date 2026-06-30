@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Jose-Gael-Cruz-Lopez&show_icons=true&hide_border=true&theme=github_dark" />
+  <img height="170" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jose-Gael-Cruz-Lopez&theme=github_dark" />
   <img height="170" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=Jose-Gael-Cruz-Lopez&hide_border=true&theme=github-dark" />
 </p>
 
