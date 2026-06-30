@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Jose-Gael-Cruz-Lopez&show_icons=true&hide_border=true&theme=github_dark" />
+  <img height="170" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jose-Gael-Cruz-Lopez&theme=github_dark" />
   <img height="170" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=Jose-Gael-Cruz-Lopez&hide_border=true&theme=github-dark" />
 </p>
 
-[![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Jose-Gael-Cruz-Lopez&theme=github-compact&hide_border=true)](https://github.com/Jose-Gael-Cruz-Lopez)
+[![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Jose-Gael-Cruz-Lopez&theme=github-dark&hide_border=true)](https://github.com/Jose-Gael-Cruz-Lopez)
 
 <p align="center">
   <img alt="Activity overview" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jose-Gael-Cruz-Lopez&theme=github_dark" width="820" />
@@ -33,7 +33,11 @@ Outside of tech, I ampliy hidden voices through creative writing, storytelling, 
 ---
 
 <p align="center">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Jose-Gael-Cruz-Lopez/Jose-Gael-Cruz-Lopez/output/pacman-contribution-graph.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jose-Gael-Cruz-Lopez/Jose-Gael-Cruz-Lopez/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jose-Gael-Cruz-Lopez/Jose-Gael-Cruz-Lopez/output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Jose-Gael-Cruz-Lopez/Jose-Gael-Cruz-Lopez/output/pacman-contribution-graph-dark.svg" />
+  </picture>
 </p>
 
 ---
