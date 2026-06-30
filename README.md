@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-v6.svg" alt="Jose Gael Cruz Lopez — about me" width="900" />
+  <img src="./assets/banner-v7.svg" alt="Jose Gael Cruz Lopez — about me" width="900" />
 </p>
 
 <p align="center">
