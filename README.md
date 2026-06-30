@@ -7,7 +7,7 @@
   <img height="170" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=Jose-Gael-Cruz-Lopez&hide_border=true&theme=github-dark" />
 </p>
 
-[![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Jose-Gael-Cruz-Lopez&theme=github-compact&hide_border=true)](https://github.com/Jose-Gael-Cruz-Lopez)
+[![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Jose-Gael-Cruz-Lopez&theme=github-dark&hide_border=true)](https://github.com/Jose-Gael-Cruz-Lopez)
 
 <p align="center">
   <img alt="Activity overview" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jose-Gael-Cruz-Lopez&theme=github_dark" width="820" />
