@@ -1,21 +1,3 @@
-<p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jose-Gael-Cruz-Lopez&theme=github_dark" />
-  <img height="170" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=Jose-Gael-Cruz-Lopez&hide_border=true&theme=github-dark" />
-</p>
-
-[![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Jose-Gael-Cruz-Lopez&theme=github-dark&hide_border=true)](https://github.com/Jose-Gael-Cruz-Lopez)
-
-<p align="center">
-  <img alt="Activity overview" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jose-Gael-Cruz-Lopez&theme=github_dark" width="820" />
-</p>
-
-<p align="center">
-  <img height="195" alt="Most-used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jose-Gael-Cruz-Lopez&theme=github_dark" />
-  <img height="195" alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jose-Gael-Cruz-Lopez&utcOffset=-5&theme=github_dark" />
-</p>
-
----
-
 ## About Me
 
 I'm Jose Cruz 🇲🇽—first-gen/low-income and passionate about helping others break into tech.  
@@ -30,6 +12,24 @@ Outside of tech, I ampliy hidden voices through creative writing, storytelling, 
 
 <p align="center">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Jose-Gael-Cruz-Lopez/Jose-Gael-Cruz-Lopez/output/pacman-contribution-graph-dark.svg" />
+</p>
+
+---
+
+<p align="center">
+  <img height="170" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jose-Gael-Cruz-Lopez&theme=github_dark" />
+  <img height="170" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=Jose-Gael-Cruz-Lopez&hide_border=true&theme=github-dark" />
+</p>
+
+[![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Jose-Gael-Cruz-Lopez&theme=github-dark&hide_border=true)](https://github.com/Jose-Gael-Cruz-Lopez)
+
+<p align="center">
+  <img alt="Activity overview" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jose-Gael-Cruz-Lopez&theme=github_dark" width="820" />
+</p>
+
+<p align="center">
+  <img height="195" alt="Most-used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jose-Gael-Cruz-Lopez&theme=github_dark" />
+  <img height="195" alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jose-Gael-Cruz-Lopez&utcOffset=-5&theme=github_dark" />
 </p>
 
 ---
