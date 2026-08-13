@@ -19,13 +19,13 @@ I’m still becoming, still building, and telling stories. Stories are for those
 
 Always happy to connect with people who build with heart.
 
-📩 josec@bu.edu
-Substack: substack.com/@jcpuffybear
-Instagram: @jobse.cz
-Github: https://github.com/Jose-Gael-Cruz-Lopez
-Calendly: https://calendly.com/josec-bu/personal-meeting-room
+- 📩 **Email** — [josec@bu.edu](mailto:josec@bu.edu)
+- ✍️ **Substack** — [@jcpuffybear](https://substack.com/@jcpuffybear)
+- 📸 **Instagram** — [@jobse.cz](https://instagram.com/jobse.cz)
+- 💻 **GitHub** — [Jose-Gael-Cruz-Lopez](https://github.com/Jose-Gael-Cruz-Lopez)
+- 📅 **Calendly** — [Book a chat](https://calendly.com/josec-bu/personal-meeting-room)
 
-After countless coffee chats and messages, this page is my way to help everyone I can. Feel free to schedule a chat—I'd love to connect! [Calendly](https://calendly.com/josec-bu)
+After countless coffee chats and messages, this page is my way to help everyone I can. Feel free to [schedule a chat](https://calendly.com/josec-bu) — I'd love to connect!
 
 ---
 
