@@ -1,12 +1,31 @@
 ## About Me
 
-I'm Jose Cruz 🇲🇽—first-gen/low-income and passionate about helping others break into tech.  
-I created an Instagram page [@jobse.cz](https://instagram.com/jobse.cz) to advocate for opportunities and support people in the tech industry—sharing internships, advice, resume tips, and more.  
-Views in the first week: 13.0k. Going on the second week!
+
+I grew up in Huachinango, Puebla, as a little boy with big questions and no clear path for where technology, design, or college could take me. That journey carried me from Mexico to Miami and eventually to Boston, where I became a 𝗤𝘂𝗲𝘀𝘁𝗕𝗿𝗶𝗱𝗴𝗲 𝗦𝗰𝗵𝗼𝗹𝗮𝗿 and now study 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 at 𝗕𝗼𝘀𝘁𝗼𝗻 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆.
+
+Today, I’m a 𝗖𝗿𝗲𝗮𝘁𝗶𝘃𝗲 𝗗𝗲𝘀𝗶𝗴𝗻 𝗜𝗻𝘁𝗲𝗿𝗻 at 𝗧𝗼𝗱𝗱 and a fellow at 𝗢𝗽𝗲𝗻𝗧𝗿𝗮𝗱𝗲 (𝗬𝗖 𝗦𝟮𝟲).
+
+I’m a first-generation, low-income builder who lives at the intersection of product design, UI/UX, front-end engineering, design engineering, and growth. 
+
+I’ve shipped production React/TypeScript work at 𝗦𝘁𝗮𝘁𝗲 𝗙𝗮𝗿𝗺, helped build an AI learning platform as a founding engineer at 𝗦𝗮𝗽𝗹𝗶𝗻𝗴, and co-founded 𝗙𝗿𝗼𝗺 𝗖𝗮𝗺𝗽𝘂𝘀 𝘁𝗼 𝗖𝗮𝗿𝗲𝗲𝗿, a bilingual platform helping first-gen students find opportunities. I’ve also built neural-symbolic AI through 𝗕𝗿𝗲𝗮𝗸 𝗧𝗵𝗿𝗼𝘂𝗴𝗵 𝗧𝗲𝗰𝗵 𝗔𝗜 with 𝗠𝗜𝗧 𝗟𝗶𝗻𝗰𝗼𝗹𝗻 𝗟𝗮𝗯𝗼𝗿𝗮𝘁𝗼𝗿𝘆 and researched soft robotics, electronics, and hardware at 𝗕𝗨.
+
+Outside of internships and classes, I create. I’ve grown a community of 𝟮𝟱𝗞+ 𝗮𝗰𝗿𝗼𝘀𝘀 𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻 and 𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺 by sharing opportunities, honest career lessons, and the things I wish someone had explained to me sooner. I’ve supported 𝟱𝟬𝟬𝟬+ 𝘀𝘁𝘂𝗱𝗲𝗻𝘁𝘀 through conversations and resources, and I started the 𝗖𝗿𝘂𝘇𝗶𝗻𝗴 𝗙𝗼𝗿𝘄𝗮𝗿𝗱 𝗦𝗰𝗵𝗼𝗹𝗮𝗿𝘀𝗵𝗶𝗽 because I know how much one opportunity can change a life.
+
+I also serve as an 𝗔𝗱𝗼𝗯𝗲 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 𝗔𝗺𝗯𝗮𝘀𝘀𝗮𝗱𝗼𝗿, 𝗖𝗼𝗹𝗼𝗿𝗦𝘁𝗮𝗰𝗸 𝗙𝗲𝗹𝗹𝗼𝘄, and incoming VP of External Affairs for 𝗦𝗛𝗣𝗘 at 𝗕𝗨. The mission is the same: make complex systems easier to understand and make opportunity easier to reach.
+
+I love creative writing, visual design, chess, table tennis, baking, painting, K-dramas, Haikyu, riverside walks, and Snoopy. I’m bilingual in English and Spanish, and I carry Huachinango, Miami, and Boston with me into everything I make.
+
+I’m still becoming, still building, and telling stories. Stories are for those late hours in the night when you can't remember how you got from where you were to where you are. Stories are for eternity, when memory is erased, when there is nothing to remember except the story.
+
+Always happy to connect with people who build with heart.
+
+📩 josec@bu.edu
+Substack: substack.com/@jcpuffybear
+Instagram: @jobse.cz
+Github: https://github.com/Jose-Gael-Cruz-Lopez
+Calendly: https://calendly.com/josec-bu/personal-meeting-room
 
 After countless coffee chats and messages, this page is my way to help everyone I can. Feel free to schedule a chat—I'd love to connect! [Calendly](https://calendly.com/josec-bu)
-
-Outside of tech, I ampliy hidden voices through creative writing, storytelling, and as a table tennis player. I’m a first-gen advocate for inclusive maker spaces, and I love exploring Boston’s trails. I know what it’s like to be lost and hidden, so my goal is to help you build confidence and persevere against all odds.
 
 ---
 
