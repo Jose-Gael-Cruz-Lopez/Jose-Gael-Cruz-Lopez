@@ -1,17 +1,17 @@
 ## About Me
 
 
-I grew up in Huachinango, Puebla, as a little boy with big questions and no clear path for where technology, design, or college could take me. That journey carried me from Mexico to Miami and eventually to Boston, where I became a 𝗤𝘂𝗲𝘀𝘁𝗕𝗿𝗶𝗱𝗴𝗲 𝗦𝗰𝗵𝗼𝗹𝗮𝗿 and now study 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 at 𝗕𝗼𝘀𝘁𝗼𝗻 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆.
+I grew up in Huachinango, Puebla, as a little boy with big questions and no clear path for where technology, design, or college could take me. That journey carried me from Mexico to Miami and eventually to Boston, where I became a **QuestBridge Scholar** and now study **Computer Engineering** at **Boston University**.
 
-Today, I’m a 𝗖𝗿𝗲𝗮𝘁𝗶𝘃𝗲 𝗗𝗲𝘀𝗶𝗴𝗻 𝗜𝗻𝘁𝗲𝗿𝗻 at 𝗧𝗼𝗱𝗱 and a fellow at 𝗢𝗽𝗲𝗻𝗧𝗿𝗮𝗱𝗲 (𝗬𝗖 𝗦𝟮𝟲).
+Today, I’m a **Creative Design Intern** at **Todd** and a fellow at **OpenTrade** (**YC S26**).
 
 I’m a first-generation, low-income builder who lives at the intersection of product design, UI/UX, front-end engineering, design engineering, and growth. 
 
-I’ve shipped production React/TypeScript work at 𝗦𝘁𝗮𝘁𝗲 𝗙𝗮𝗿𝗺, helped build an AI learning platform as a founding engineer at 𝗦𝗮𝗽𝗹𝗶𝗻𝗴, and co-founded 𝗙𝗿𝗼𝗺 𝗖𝗮𝗺𝗽𝘂𝘀 𝘁𝗼 𝗖𝗮𝗿𝗲𝗲𝗿, a bilingual platform helping first-gen students find opportunities. I’ve also built neural-symbolic AI through 𝗕𝗿𝗲𝗮𝗸 𝗧𝗵𝗿𝗼𝘂𝗴𝗵 𝗧𝗲𝗰𝗵 𝗔𝗜 with 𝗠𝗜𝗧 𝗟𝗶𝗻𝗰𝗼𝗹𝗻 𝗟𝗮𝗯𝗼𝗿𝗮𝘁𝗼𝗿𝘆 and researched soft robotics, electronics, and hardware at 𝗕𝗨.
+I’ve shipped production React/TypeScript work at **State Farm**, helped build an AI learning platform as a founding engineer at **Sapling**, and co-founded **From Campus to Career**, a bilingual platform helping first-gen students find opportunities. I’ve also built neural-symbolic AI through **Break Through Tech AI** with **MIT Lincoln Laboratory** and researched soft robotics, electronics, and hardware at **BU**.
 
-Outside of internships and classes, I create. I’ve grown a community of 𝟮𝟱𝗞+ 𝗮𝗰𝗿𝗼𝘀𝘀 𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻 and 𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺 by sharing opportunities, honest career lessons, and the things I wish someone had explained to me sooner. I’ve supported 𝟱𝟬𝟬𝟬+ 𝘀𝘁𝘂𝗱𝗲𝗻𝘁𝘀 through conversations and resources, and I started the 𝗖𝗿𝘂𝘇𝗶𝗻𝗴 𝗙𝗼𝗿𝘄𝗮𝗿𝗱 𝗦𝗰𝗵𝗼𝗹𝗮𝗿𝘀𝗵𝗶𝗽 because I know how much one opportunity can change a life.
+Outside of internships and classes, I create. I’ve grown a community of **25K+ across LinkedIn** and **Instagram** by sharing opportunities, honest career lessons, and the things I wish someone had explained to me sooner. I’ve supported **5000+ students** through conversations and resources, and I started the **Cruzing Forward Scholarship** because I know how much one opportunity can change a life.
 
-I also serve as an 𝗔𝗱𝗼𝗯𝗲 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 𝗔𝗺𝗯𝗮𝘀𝘀𝗮𝗱𝗼𝗿, 𝗖𝗼𝗹𝗼𝗿𝗦𝘁𝗮𝗰𝗸 𝗙𝗲𝗹𝗹𝗼𝘄, and incoming VP of External Affairs for 𝗦𝗛𝗣𝗘 at 𝗕𝗨. The mission is the same: make complex systems easier to understand and make opportunity easier to reach.
+I also serve as an **Adobe Student Ambassador**, **ColorStack Fellow**, and **VP of External Affairs** for **SHPE** at **BU**. The mission is the same: make complex systems easier to understand and make opportunity easier to reach.
 
 I love creative writing, visual design, chess, table tennis, baking, painting, K-dramas, Haikyu, riverside walks, and Snoopy. I’m bilingual in English and Spanish, and I carry Huachinango, Miami, and Boston with me into everything I make.
 
@@ -25,7 +25,29 @@ Always happy to connect with people who build with heart.
 - 💻 **GitHub** — [Jose-Gael-Cruz-Lopez](https://github.com/Jose-Gael-Cruz-Lopez)
 - 📅 **Calendly** — [Book a chat](https://calendly.com/josec-bu/personal-meeting-room)
 
-After countless coffee chats and messages, this page is my way to help everyone I can. Feel free to [schedule a chat](https://calendly.com/josec-bu) — I'd love to connect!
+After countless coffee chats and messages, this page is my way to help everyone I can. Feel free to [schedule a chat](https://calendly.com/josec-bu/personal-meeting-room) — I'd love to connect!
+
+---
+
+<h2>📚&nbsp; What I'm Building</h2>
+
+Four open-source projects that exist for one reason: **the best opportunities don't live on job boards.** They live in insider networks and word of mouth. These make them public.
+
+### [Underclassmen Opportunities](https://github.com/Jose-Gael-Cruz-Lopez/underclassmen-opportunities) &nbsp;[![Stars](https://img.shields.io/github/stars/Jose-Gael-Cruz-Lopez/underclassmen-opportunities?style=flat-square&labelColor=0d1117&color=1f6feb)](https://github.com/Jose-Gael-Cruz-Lopez/underclassmen-opportunities/stargazers)
+
+Internships, programs, and resources for freshmen and sophomores. Plenty of companies run early-career programs that need no prior experience — this is the curated list of them, in one place.
+
+### [Hack HQ](https://github.com/Hack-HQ/hackhq) &nbsp;[![Stars](https://img.shields.io/github/stars/Hack-HQ/hackhq?style=flat-square&labelColor=0d1117&color=1f6feb)](https://github.com/Hack-HQ/hackhq/stargazers)
+
+Your HQ for every hackathon worth joining — a community-driven list of open and upcoming hackathons, updated automatically. Live at **[hacking-hq.com](https://hacking-hq.com)**.
+
+### [BadgeUp](https://github.com/Jose-Gael-Cruz-Lopez/BadgeUp) &nbsp;[![Stars](https://img.shields.io/github/stars/Jose-Gael-Cruz-Lopez/BadgeUp?style=flat-square&labelColor=0d1117&color=1f6feb)](https://github.com/Jose-Gael-Cruz-Lopez/BadgeUp/stargazers)
+
+Conferences undergrads can actually attend: free, scholarship-funded, or student-priced — across every major, not just tech.
+
+### [From Campus to Career](https://github.com/fromcampustocareer/fromcampustocareer-opportunities) &nbsp;[![Stars](https://img.shields.io/github/stars/fromcampustocareer/fromcampustocareer-opportunities?style=flat-square&labelColor=0d1117&color=1f6feb)](https://github.com/fromcampustocareer/fromcampustocareer-opportunities/stargazers)
+
+The bilingual opportunity platform I co-founded for first-generation students. Live at **[fromcampuscareer.com](https://fromcampuscareer.com/)**.
 
 ---
 
@@ -37,7 +59,6 @@ After countless coffee chats and messages, this page is my way to help everyone 
 
 <p align="center">
   <img height="170" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jose-Gael-Cruz-Lopez&theme=github_dark" />
-  <img height="170" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=Jose-Gael-Cruz-Lopez&hide_border=true&theme=github-dark" />
 </p>
 
 [![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Jose-Gael-Cruz-Lopez&theme=github-dark&hide_border=true)](https://github.com/Jose-Gael-Cruz-Lopez)
