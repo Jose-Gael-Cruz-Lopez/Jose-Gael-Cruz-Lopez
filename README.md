@@ -19,17 +19,17 @@ I’m still becoming, still building, and telling stories. Stories are for those
 
 Always happy to connect with people who build with heart.
 
-- 📩 **Email** — [josec@bu.edu](mailto:josec@bu.edu)
-- ✍️ **Substack** — [@jcpuffybear](https://substack.com/@jcpuffybear)
-- 📸 **Instagram** — [@jobse.cz](https://instagram.com/jobse.cz)
-- 💻 **GitHub** — [Jose-Gael-Cruz-Lopez](https://github.com/Jose-Gael-Cruz-Lopez)
-- 📅 **Calendly** — [Book a chat](https://calendly.com/josec-bu/personal-meeting-room)
+- **Email** — [josec@bu.edu](mailto:josec@bu.edu)
+- **Substack** — [@jcpuffybear](https://substack.com/@jcpuffybear)
+- **Instagram** — [@jobse.cz](https://instagram.com/jobse.cz)
+- **GitHub** — [Jose-Gael-Cruz-Lopez](https://github.com/Jose-Gael-Cruz-Lopez)
+- **Calendly** — [Book a chat](https://calendly.com/josec-bu/personal-meeting-room)
 
-After countless coffee chats and messages, this page is my way to help everyone I can. Feel free to [schedule a chat](https://calendly.com/josec-bu/personal-meeting-room) — I'd love to connect!
+After countless coffee chats and messages, this page is my way to help everyone I can. Feel free to book a time above — I'd love to connect!
 
 ---
 
-<h2>📚&nbsp; What I'm Building</h2>
+## What I'm Building
 
 Four open-source projects that exist for one reason: **the best opportunities don't live on job boards.** They live in insider networks and word of mouth. These make them public.
 
@@ -74,7 +74,7 @@ The bilingual opportunity platform I co-founded for first-generation students. L
 
 ---
 
-<h2>🚀&nbsp; Some Tools I Have Used and Learned</h2>
+## Some Tools I Have Used and Learned
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" height="45" />
