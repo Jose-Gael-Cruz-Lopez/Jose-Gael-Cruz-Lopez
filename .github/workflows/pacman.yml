@@ -1,4 +1,4 @@
-name: Generate pacman animation
+name: Generate profile graphs
 
 on:
   schedule:
@@ -21,6 +21,14 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           games: 'pacman'
+
+      - name: generate activity-graph.svg
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: hide_border=true&bg_color=0d1117&border_color=0d1117&color=c9d1d9&title_color=c9d1d9&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

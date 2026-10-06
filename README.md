@@ -67,6 +67,10 @@ The bilingual opportunity platform I co-founded for first-generation students. L
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Jose-Gael-Cruz-Lopez/Jose-Gael-Cruz-Lopez/output/activity-graph.svg" alt="Activity graph" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jose-Gael-Cruz-Lopez&theme=github_dark" alt="Profile summary" width="820" />
 </p>
 
