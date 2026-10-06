@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="mailto:josec@bu.edu"><img src="https://img.shields.io/badge/Email-josec%40bu.edu-1f6feb?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://calendly.com/josec-bu/personal-meeting-room"><img src="https://img.shields.io/badge/Book%20a%20chat-Calendly-006BFF?style=flat-square&logo=calendly&logoColor=white" alt="Book a chat" /></a>
   <a href="https://substack.com/@jcpuffybear"><img src="https://img.shields.io/badge/Substack-@jcpuffybear-FF6719?style=flat-square&logo=substack&logoColor=white" alt="Substack" /></a>
   <a href="https://instagram.com/jobse.cz"><img src="https://img.shields.io/badge/Instagram-@jobse.cz-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
@@ -38,25 +39,25 @@ Four open-source projects built on one idea: **the best opportunities don't live
 
 Internships, programs, and resources for freshmen and sophomores. Many companies run early-career programs that require no prior experience. This is the curated list of them, in one place.
 
-![Stars](https://img.shields.io/github/stars/Jose-Gael-Cruz-Lopez/underclassmen-opportunities?style=flat-square&labelColor=0d1117&color=1f6feb)
+[![Stars](https://img.shields.io/github/stars/Jose-Gael-Cruz-Lopez/underclassmen-opportunities?style=flat-square&labelColor=0d1117&color=1f6feb)](https://github.com/Jose-Gael-Cruz-Lopez/underclassmen-opportunities/stargazers)
 
 ### [Hack HQ](https://github.com/Hack-HQ/hackhq)
 
 Your HQ for every hackathon worth joining: a community-driven list of open and upcoming hackathons, updated automatically. Live at **[hacking-hq.com](https://hacking-hq.com)**.
 
-![Stars](https://img.shields.io/github/stars/Hack-HQ/hackhq?style=flat-square&labelColor=0d1117&color=1f6feb)
+[![Stars](https://img.shields.io/github/stars/Hack-HQ/hackhq?style=flat-square&labelColor=0d1117&color=1f6feb)](https://github.com/Hack-HQ/hackhq/stargazers)
 
 ### [BadgeUp](https://github.com/Jose-Gael-Cruz-Lopez/BadgeUp)
 
 Conferences undergrads can actually attend: free, scholarship-funded, or student-priced, across every major, not just tech.
 
-![Stars](https://img.shields.io/github/stars/Jose-Gael-Cruz-Lopez/BadgeUp?style=flat-square&labelColor=0d1117&color=1f6feb)
+[![Stars](https://img.shields.io/github/stars/Jose-Gael-Cruz-Lopez/BadgeUp?style=flat-square&labelColor=0d1117&color=1f6feb)](https://github.com/Jose-Gael-Cruz-Lopez/BadgeUp/stargazers)
 
 ### [From Campus to Career](https://github.com/fromcampustocareer/fromcampustocareer-opportunities)
 
 The bilingual opportunity platform I co-founded for first-generation students. Live at **[fromcampuscareer.com](https://fromcampuscareer.com/)**.
 
-![Stars](https://img.shields.io/github/stars/fromcampustocareer/fromcampustocareer-opportunities?style=flat-square&labelColor=0d1117&color=1f6feb)
+[![Stars](https://img.shields.io/github/stars/fromcampustocareer/fromcampustocareer-opportunities?style=flat-square&labelColor=0d1117&color=1f6feb)](https://github.com/fromcampustocareer/fromcampustocareer-opportunities/stargazers)
 
 ---
 
